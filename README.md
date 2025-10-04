@@ -1,4 +1,4 @@
-# 🎓 EduTrack Lite API
+#  EduTrack Lite API
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.116.1-009688.svg?style=flat&logo=FastAPI)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.13+-3776AB.svg?style=flat&logo=Python)](https://python.org/)
@@ -8,13 +8,13 @@
 
 A modern, fast, and comprehensive FastAPI-based system for managing course enrollments and tracking course completion. Built with clean architecture, full validation, and comprehensive testing.
 
-## ✨ Features
+##  Features
 
 ###  **Core Functionality**
-- **👤 User Management**: Complete CRUD operations with user deactivation
-- **🗓️ Course Management**: Full course lifecycle with enrollment control
-- **📝 Enrollment Management**: Smart enrollment with business rule validation
-- **📊 Real-time Data**: In-memory storage with automatic example data loading
+- ** User Management**: Complete CRUD operations with user deactivation
+- ** Course Management**: Full course lifecycle with enrollment control
+- ** Enrollment Management**: Smart enrollment with business rule validation
+- ** Real-time Data**: In-memory storage with automatic example data loading
 
 ###  **Developer Experience**
 - ** Clear Documentation**: Detailed README with examples
