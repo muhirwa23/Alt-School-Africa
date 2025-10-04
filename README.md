@@ -244,7 +244,7 @@ Once the server is running, access these documentation interfaces:
 -  **201 Created**: For successful resource creation
 -  **204 No Content**: For successful deletions
 
-## 🧪 Testing
+##  Testing
 
 ###  **Run Tests**
 
